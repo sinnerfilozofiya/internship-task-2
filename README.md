@@ -1,6 +1,12 @@
-# Java Sayı Tahmin Oyunu
+# 🎉 Java Sayı Tahmin Oyunu
 
 Bu proje, Java Swing kullanılarak oluşturulmuş bir GUI tabanlı sayı tahmin oyunudur. Kullanıcıya belirli bir aralıkta rastgele bir sayı tahmin etme imkanı sağlar. Oyun, zaman sınırı ve deneme hakkı içeren seçenekler sunar ve oyun geçmişini gösterir.
+
+## Önizleme
+
+<img src="./image.png" alt="Oyun Önizlemesi" width="600"/>
+
+*Önizleme resmi: Oyunun arayüzü ve kullanıcı etkileşimi.*
 
 ## Kullanım
 
@@ -18,11 +24,11 @@ Programı çalıştırmak için aşağıdaki adımları izleyin:
 
 ## Özellikler
 
-- Rastgele sayı tahmini
-- Zaman sınırlı oyun
-- Deneme hakları
-- Geçmiş oyunları gösterme
-- Yüksek puan ve skor takibi
+- 🎯 Rastgele sayı tahmini
+- ⏳ Zaman sınırlı oyun
+- 🧩 Deneme hakları
+- 📜 Geçmiş oyunları gösterme
+- 🏆 Yüksek puan ve skor takibi
 
 ## Teknik Detaylar
 
@@ -78,7 +84,7 @@ Programı çalıştırmak için aşağıdaki adımları izleyin:
     ```
 
 6. **Skor Güncelleme:**
-    Skor güncellenir ve yüksek skor kontrol edilir.
+    Skorları günceller ve yüksek skoru kontrol eder.
     ```java
     private void updateScores() {
         // Skor güncelleme işlemleri
@@ -145,4 +151,4 @@ Programı çalıştırmak için aşağıdaki adımları izleyin:
 
 ## Katkıda Bulunma
 
-Katkıda bulunmak için lütfen bir pull request oluşturun. Herhangi bir sorunuz varsa, lütfen issue açmaktan çekinmeyin.
+Katkıda bulunmak için lütfen bir pull request oluşturun. Herhangi bir sorunuz varsa, lütfen issue açmaktan çekinmeyin. 🚀
